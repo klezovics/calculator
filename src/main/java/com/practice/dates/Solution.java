@@ -35,13 +35,13 @@ public class Solution {
         return false;
     }
 
-    //TODO Add unit tests for this method !
+    //TODO Add unit tests for this method to SolutionTest !
     public static int getDaysFromStartOfYear(Date date) {
         //TODO  Implement count days from start of year
         return 0;
     }
 
-    //TODO Add unit test for this method !
+    //TODO Add unit test for this method to SolutionTest!
     public static Date parseDate(String dateString) {
         //TODO Implement parsing of date
         return null;
