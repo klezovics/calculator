@@ -1,4 +1,4 @@
-package com.klezovich;
+package com.practice;
 
 
 public class Calculator {
